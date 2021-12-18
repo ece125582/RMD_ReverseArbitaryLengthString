@@ -1,2 +1,2 @@
 # RMD_ReverseArbitaryString
-Reverse incoming arbitary string
+Reverse incoming arbitary length string
